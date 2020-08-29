@@ -40,7 +40,7 @@ python bot.py
 * [Rustambek Toirov](https://telegram.dog/Rustambek_Uz) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
-- For FeedBack and Suggestions, please feel free to say in [@InFoTelGroup](https://telegram.dog/InFoTelGroup)
+- For FeedBack and Suggestions, please feel free to say in [@SecretiusGroup](https://telegram.dog/SecretiusGroup)
 
 #### LICENSE
 - GPLv3
