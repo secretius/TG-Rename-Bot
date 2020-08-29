@@ -4,7 +4,8 @@ This is a Telegram Rename Bot!
 
 <b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
 
-/help for more details.."""
+/help for more details..
+Powered by: @Secretius Join"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
