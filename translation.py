@@ -1,10 +1,11 @@
 class Translation(object):
-    START_TEXT = """Hello,
-This is a Telegram Rename Bot!
+    START_TEXT = """Assalomu alaykum,
+Ushbu bot fayllarni nomini oʻzgartirishga yordam beradi!
 
-<b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
+<b>Iltimos menga faylingizni yuboring va oʻsha faylga reply qilib /rename faylni yangi nomi.apk iltimos fayl formati qanday boʻlsa shunday yozing</b>
 
-/help for more details..
+/help yordam boʻlimi!
+
 Powered by: @Secretius Join"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -25,15 +26,16 @@ Powered by: @Secretius Join"""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai am Rename bot..
     
-1. Send me any Telegram File.
-2. Reply to that message to /rename new name.extension.
-   
-<b>👉 My channel is :</b> 👉 <a href="https://t.me/Secretius">Secretius</a>
+1. Oʻzgartirish kerak boʻlgan faylni yuboring!.
+2. Yuborilgan faylga reply qilib /rename faylni yangi nomi.apk iltimos fayl formati qanday boʻlsa shunday yozing!
+
+<b>👉 Bizning kanal:</b> 👉 <a href="https://t.me/Secretius">Secretius</a>
 
 --------
 
 Support Group : @SecretiusGroup
-© @Secretius @Powered_By_Secretius"""
+
+© @Secretius """
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
